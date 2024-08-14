@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-rc.1]
+
+### Dependencies
+
+- Upgraded to `fs-js@2.0.0-rc.1`
+
 ## \[2.0.0-rc.0]
 
 ### Dependencies
